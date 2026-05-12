@@ -1,0 +1,25 @@
+﻿# Processamento de PDFs
+pymupdf==1.24.5
+pdfplumber==0.11.0
+
+# Embeddings e NLP
+transformers==4.41.2
+sentence-transformers==3.0.1
+torch==2.3.1
+
+# Banco vetorial
+faiss-cpu==1.8.0
+chromadb==0.5.0
+
+# LLM
+anthropic==0.28.0
+
+# Interface
+streamlit==1.36.0
+streamlit-chat==0.1.1
+
+# Utilidades
+python-dotenv==1.0.1
+tqdm==4.66.4
+pandas==2.2.2
+numpy==1.26.4
